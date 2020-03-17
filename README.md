@@ -6,7 +6,7 @@
 
 ## 我的一些联系方式
 
-- 电话: **暂时丢失**
+- TEl: **暂时丢失**
 - 为何不来看看我: **[我的Github主页](https://github.com/2398954487)**
 - 官网: **<https://inforest.xzzxz.cn>**
 
