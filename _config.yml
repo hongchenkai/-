@@ -532,7 +532,7 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
         <script>
           var usage = "payment";
           var wechat = "11";
-          var tenpay = "1";
+       
    
           var paypal = "12";
           var myname = "暂时不能支付";
