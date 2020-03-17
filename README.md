@@ -6,9 +6,9 @@
 
 ## 我的一些联系方式
 
-- Address: **不告诉你哦**
+- 电话: **暂时丢失**
 - 为何不来看看我: **[我的Github主页](https://github.com/2398954487)**
-- Site: **<https://inforest.xzzxz.cn>**
+- 官网: **<https://inforest.xzzxz.cn>**
 
 <!-- slide vertical=true -->
 
@@ -20,7 +20,7 @@
 
 <!-- slide -->
 
-## 我的学校
+## 我是谁
 
 <!-- slide vertical=true -->
 
@@ -37,9 +37,9 @@
 
 <!-- slide vertical=true -->
 
-- [我的仓库](https://github.com/2398954487/2398954487.GitHub.io)
- - 我的博客代码，也欢迎你用于[搭建自己的页面](https://jekyll-theme-WuK.wu-kan.cn/)
- -【博客代码】(https://github.com/wu-kan/wu-kan.github.io）
+- [我的数据库](https://github.com/2398954487/2398954487.GitHub.io)
+ - 我的博客代码，也欢迎你用于[搭建自己的页面](https://github.com/wu-kan/wu-kan.github.io)
+
 - 前提是你得拥有自己的域名和服务器，不然网页无法上载 
 <!-- slide -->
 
@@ -56,7 +56,7 @@
 <!-- slide vertical=true -->
 - **于2020/3/17 11点57分42秒**, [证书完成]，Mar. 2020![image](http://m.qpic.cn/psc?/V14LwYwV33h6v1/4r5V*ti6WXpFIFXipK.NEieQhZi6YQuUfEuWFsNqng4tTNgpAjXqd.2TGhkvymfLFzTmmF2EIA2dibQ0c5M.UGMd.akELzRz39Wa15o0hvk!/b&bo=oAHYAaAB2AEDGTw!&rf=viewer_4&t=5)
 <!-- slide vertical=true -->
-- **于2020/3/17 18点34分20秒**，成功运行十小时纪念 May,2020 ![image](https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=2362196916,3209296707&fm=26&gp=0.jpg)
+- **于2020/3/17 18点34分20秒**，成功运行十小时纪念 May,2020 ![image](https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=2362196916,3209296707&fm=26&gp=0.jpg)更新即将移步至博文中
 <!-- slide -->
 
 ## 我的一些技能
