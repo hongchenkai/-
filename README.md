@@ -51,9 +51,10 @@
 
 <!-- slide vertical=true -->
 
-- **于2020/3/17 8点33分10秒**, [百度爬虫第一个访问者](https://inforest.xzzxz.cn/#/4/1/)，Mark. 2020
+- **于2020/3/17 8点33分10秒**, [百度爬虫第一个访问者](https://inforest.xzzxz.cn/#/4/1/)，Mar. 2020
 
-
+<!-- slide vertical=true -->
+- **于2020/3/17 11点57分42秒**, [感谢英国朋友Jason帮忙弄的证书，Thanks to you]，![image](http://m.qpic.cn/psc?/V14LwYwV33h6v1/4r5V*ti6WXpFIFXipK.NEieQhZi6YQuUfEuWFsNqng4tTNgpAjXqd.2TGhkvymfLFzTmmF2EIA2dibQ0c5M.UGMd.akELzRz39Wa15o0hvk!/b&bo=oAHYAaAB2AEDGTw!&rf=viewer_4&t=5)，Mar. 2020
 <!-- slide -->
 
 ## 我的一些技能
