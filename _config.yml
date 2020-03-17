@@ -1,4 +1,4 @@
-title: wu-kan # 站点标题
+title: inforest # 站点标题
 description: | # 头像背后的信息（html格式），<br/>代表换行
   初三党一枚<br/>
   永远致敬科比<br/>
@@ -170,11 +170,11 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
             background-position: center top;
             background-repeat: no-repeat;
             background-attachment: fixed;
-            background-image: url(https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=3768719979,1156112206&fm=26&gp=0.jpg);
+            background-image: url(http://m.qpic.cn/psc?/V14LwYwV33h6v1/4r5V*ti6WXpFIFXipK.NElVsqW8rlYutp2cpG70DgIFfdeVJ5hrsuTHK9PuzGwrnybpNAAtpSaKvO8f2gPJk810xsVNvsqFiVTEsaW3E6yM!/b&bo=TATnAgAAAAARF40!&rf=viewer_4&t=5);
           }
           @media (min-aspect-ratio: 2400/1850) {
             .wrap {
-              background-image: url（https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=3768719979,1156112206&fm=26&gp=0.jpg);
+              background-image: url（http://m.qpic.cn/psc?/V14LwYwV33h6v1/4r5V*ti6WXpFIFXipK.NElVsqW8rlYutp2cpG70DgIFfdeVJ5hrsuTHK9PuzGwrnybpNAAtpSaKvO8f2gPJk810xsVNvsqFiVTEsaW3E6yM!/b&bo=TATnAgAAAAARF40!&rf=viewer_4&t=5);
             }
           }
         </style>
