@@ -256,7 +256,7 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
           href: /archive/
         - title: '<i class="fas fa-coffee fa-fw"></i> 打赏'
           href: /merger/
-        - title: '<i class="fas fa-superpowers fa-fw"></i> 论坛'
+        - title: '<i class="fas fa-globe fa-fw"></i> 论坛'
           href: http://sporter.wap.fenxiaoabc.cn/wap_sporter.html
       simple_jekyll_search: # 侧边栏的全站搜索
         enable: true
