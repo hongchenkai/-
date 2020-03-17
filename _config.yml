@@ -20,7 +20,7 @@ description: | # 头像背后的信息（html格式），<br/>代表换行
     <i class="fab fa-qq"></i>
   </a>
   <iframe
-    src="https://music.163.com/outchain/player?type=2&id=1368324900&auto=0&height=32"
+    src="https://music.163.com/outchain/player?type=2&id=531786301&auto=0&height=32"
     width=100%
     height=52
     frameborder="no"
@@ -28,7 +28,7 @@ description: | # 头像背后的信息（html格式），<br/>代表换行
     marginwidth="0"
     marginheight="0"
   ></iframe>
-  <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=100% height=52 src="//music.163.com/outchain/player?type=2&id=531786301&auto=0&height=32"></iframe>
+  <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=100% height=52 src="//music.163.com/outchain/player?type=2&id=1368324900&auto=0&height=32"></iframe>
 url: https://inforest.xzzxz.cn # 你的域名，例如https://wu-kan.github.io
 baseurl: "" # 假如你的博客是建在某个目录下的，请在这里加上目录名，并且下面配置的所有链接里的`/assets`前也要加，即`/your_baseurl/assets`。这一项结尾不要有'/'。
 
