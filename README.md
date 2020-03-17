@@ -80,7 +80,7 @@
 
 ## 我的一些文字
 
-没有
+- [今日所想之事](https://inforest.xzzxz.cn/_posts/2020-03-17-%E4%BB%8A%E6%97%A5%E6%AD%A4%E6%97%B6%E6%89%80%E6%83%B3%E4%B9%8B%E4%BA%8B/)
 
 <!-- slide vertical=true -->
 
