@@ -542,7 +542,7 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
           var myname_hant = "KAI";
           var myname_eng = "WuK";
           var title = "暂时不能支付";
-          var subtitle = "跟随进一步的指示以向" + myname + "付款";
+          var subtitle = "暂时不能给我" + myname + "付款，图中连接无效";
           var qrcodeapi = "https://www.zhihu.com/qrcode?url=";
         </script>
       - |
