@@ -7,7 +7,7 @@
 ## 我的一些联系方式
 
 - Address: **不告诉你哦**
-- Phone: **+86  不想公布**
+- 为毛不来看看我: **+86  [我的Github主页](https://github.com/2398954487)}*
 - Site: **<https://inforest.xzzxz.cn>**
 
 <!-- slide vertical=true -->
