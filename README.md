@@ -83,7 +83,8 @@
 ## 我的一些文字
 
 - [今日所想之事](https://inforest.xzzxz.cn/_posts/2020-03-17-%E4%BB%8A%E6%97%A5%E6%AD%A4%E6%97%B6%E6%89%80%E6%83%B3%E4%B9%8B%E4%BA%8B/)
+- [公益计划](https://inforest.xzzxz.cn/_posts/2020-03-17-%E5%9C%A3%E6%9D%AF%E6%88%98%E4%BA%89/)
 
 <!-- slide vertical=true -->
 
-- [公益计划](https://inforest.xzzxz.cn/_posts/2020-03-17-%E5%9C%A3%E6%9D%AF%E6%88%98%E4%BA%89/)
+
