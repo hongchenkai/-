@@ -370,7 +370,7 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
           <div>
             <i class="fas fa-thumbs-up fa-fw"></i>
             <a href="https://jekyll-theme-WuK.wu-kan.cn">
-            本代码由kai开源，   beta基于wu kan大神的版本
+            本代码由kai开源，　　　beta基于wu kan大神的版本
             </a>
           </div>
       wordcount: # 全站字数统计
