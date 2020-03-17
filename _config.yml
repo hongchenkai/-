@@ -369,7 +369,7 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
         - | # 觉得我的主题好用的话，让更多的人知道它吧！
           <div>
             <i class="fas fa-thumbs-up fa-fw"></i>
-            <a href="https://jekyll-theme-WuK.wu-kan.cn">
+            <a href="https://jekyll-theme-wuk.wu-kan.cn/#/0/1">
             本代码由kai开源　　　　beta基于wu kan大神的版本
             </a>
           </div>
