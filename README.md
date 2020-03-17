@@ -37,7 +37,7 @@
 
 <!-- slide vertical=true -->
 
-- [我的数据库](https://github.com/2398954487/2398954487.GitHub.io)
+- 我的[数据库](https://github.com/2398954487/2398954487.GitHub.io)
  - 我的[博客代码](https://github.com/wu-kan/wu-kan.github.io)，也欢迎你用于搭建自己的页面
 
 - 前提是你得拥有自己的域名和服务器，不然网页无法上载 
