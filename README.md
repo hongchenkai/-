@@ -56,7 +56,7 @@
 <!-- slide vertical=true -->
 - **于2020/3/17 11点57分42秒**, [证书完成]，Mar. 2020![image](http://m.qpic.cn/psc?/V14LwYwV33h6v1/4r5V*ti6WXpFIFXipK.NEieQhZi6YQuUfEuWFsNqng4tTNgpAjXqd.2TGhkvymfLFzTmmF2EIA2dibQ0c5M.UGMd.akELzRz39Wa15o0hvk!/b&bo=oAHYAaAB2AEDGTw!&rf=viewer_4&t=5)
 <!-- slide vertical=true -->
-- **于2020/3/17 18点34分20秒**，成功运行十小时纪念 May,2020 ![image(https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=2362196916,3209296707&fm=26&gp=0.jpg)
+- **于2020/3/17 18点34分20秒**，成功运行十小时纪念 May,2020 ![image](https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=2362196916,3209296707&fm=26&gp=0.jpg)
 <!-- slide -->
 
 ## 我的一些技能
