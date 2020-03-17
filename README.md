@@ -38,7 +38,7 @@
 <!-- slide vertical=true -->
 
 - [我的仓库](https://github.com/2398954487/2398954487.GitHub.io)
-  - 我使用的博客模板，也欢迎你用于[搭建自己的页面](https://jekyll-theme-WuK.wu-kan.cn/)~[![Star](https://img.shields.io/github/stars/wu-kan/wu-kan.github.io.svg)](https://github.com/wu-kan/wu-kan.github.io)[![Fork](https://img.shields.io/github/forks/wu-kan/wu-kan.github.io.svg)](https://github.com/wu-kan/wu-kan.github.io/fork）
+  - 我的博客代码，也欢迎你用于[搭建自己的页面](https://jekyll-theme-WuK.wu-kan.cn/)~[![Star](https://img.shields.io/github/stars/wu-kan/wu-kan.github.io.svg)](https://github.com/wu-kan/wu-kan.github.io)~[![Fork](https://img.shields.io/github/forks/wu-kan/wu-kan.github.io.svg)](https://github.com/wu-kan/wu-kan.github.io/fork）
  - 前提是你得拥有自己的域名和服务器，不然网页无法上载
 
 <!-- slide -->
