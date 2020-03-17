@@ -58,7 +58,7 @@ HANGZHOU市XIAOSHAN区义桥实验学校17届2班体委HCK
 <!-- slide vertical=true -->
 - **于2020/3/17 18点34分20秒**，成功运行十小时纪念 May,2020 ![image](https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=2362196916,3209296707&fm=26&gp=0.jpg)
 <!-- slide vertical=true -->
-- *由于更新频率升高，更新日志即将移步至博文中*
+- *由于更新频率升高，[更新日志](https://inforest.xzzxz.cn/_posts/2020-03-17-%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/)已移步至博文中*
 
 <!-- slide -->
 
