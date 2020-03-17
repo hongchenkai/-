@@ -40,7 +40,7 @@ HANGZHOU市XIAOSHAN区义桥实验学校17届2班体委HCK
 - 我的[数据库作品集](https://github.com/2398954487/2398954487.GitHub.io)
 - 我的[博客代码](https://github.com/wu-kan/wu-kan.github.io)，也欢迎你用于搭建自己的页面
 - 右下角2D AI智能人物[Pc端显示]
-``` 前提是你得拥有自己的域名和服务器，不然网页无法上载 
+- ``` 前提是你得拥有自己的域名和服务器，不然网页无法上载 
 <!-- slide -->
 
 ## 网站日志
