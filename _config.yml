@@ -56,12 +56,12 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
       - | # 网站小图标，可换成你自己的图片，改href中的部分即可
         <link
           rel="apple-touch-icon-precomposed"
-          href="http://img3.imgtn.bdimg.com/it/u=2029529051,139168498&fm=11&gp=0.jpg"
+          href="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1584414762935&di=db3a5abda752d9fb98013b910c692d16&imgtype=0&src=http%3A%2F%2Fpic1.zhimg.com%2F50%2Fv2-2f3dfd6f7da18983fd5a4e48747d7ee3_hd.jpg"
         />
         <link
           rel="shortcut
           icon"
-          href="https://gravatar.loli.net/avatar/289efba375d63424de3c49569c446744?s=32"
+          href="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1584414762935&di=db3a5abda752d9fb98013b910c692d16&imgtype=0&src=http%3A%2F%2Fpic1.zhimg.com%2F50%2Fv2-2f3dfd6f7da18983fd5a4e48747d7ee3_hd.jpg"
         />
       - | # 来自lanyon的页面样式，不要改
         <link
