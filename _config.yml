@@ -170,11 +170,11 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
             background-position: center top;
             background-repeat: no-repeat;
             background-attachment: fixed;
-            background-image: url(https://wu-kan.cn/MizunoAi/pixiv/74559485_p1.webp);
+            background-image: url(https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1584414909508&di=f62c8505a18290cc6772b5abeb1d0aa3&imgtype=0&src=http%3A%2F%2Fpic1.win4000.com%2Fwallpaper%2F5%2F5465ab2b006e9.jpg);
           }
           @media (min-aspect-ratio: 2400/1850) {
             .wrap {
-              background-image: url(https://wu-kan.cn/MizunoAi/pixiv/71932901_p0.webp);
+              background-image: url(https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1584414909508&di=f62c8505a18290cc6772b5abeb1d0aa3&imgtype=0&src=http%3A%2F%2Fpic1.win4000.com%2Fwallpaper%2F5%2F5465ab2b006e9.jpg);
             }
           }
         </style>
