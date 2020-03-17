@@ -120,7 +120,7 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
                 "hidden": true,
                 "content": {
                   "link": ["https://inforest.xzzxz.cn/tags/"],
-                  "skin": ["要换成我的朋友吗？", "让她放个假吧~"],
+                  "skin": ["要换成我的朋友吗？", "开发者小哥哥好帅的~"],
                   "custom": [{
                     "selector": "a",
                     "type": "link",
