@@ -328,7 +328,7 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
                 document.getElementById("run_time_hour").innerHTML = setzero(hrsold);
                 document.getElementById("run_time_minute").innerHTML = setzero(minsold);
                 document.getElementById("run_time_second").innerHTML = setzero(seconds);
-              }, 1000, "17/3/2010 8:32:56") // 这是我第一篇CSDN博客的时间
+              }, 1000, "17/3/2020 8:32:56") // 这是我第一篇CSDN博客的时间
             </script>
           </div>
         - | # 不蒜子页面统计，看不懂可不改
@@ -531,17 +531,17 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
       - | # 需要配置的变量见<https://merger.justhx.com/cn/docs/configure>
         <script>
           var usage = "payment";
-          var wechat = "wxp://f2f0BhUoIC_9gex7-tC2PRvVuoA486mK5WyC";
-          var tenpay = "https://i.qianbao.qq.com/wallet/sqrcode.htm?m=tenpay&f=wallet&a=1&ac=CAEQ77zFwQMY-6u57gU%3D_xxx_sign&u=942759535&n=%E8%94%9A";
-          var alipay = "https://qr.alipay.com/fkx02750b5kbplxvudqrx16";
-          var paypal = "https://paypal.me/wukan0621";
-          var myname = "WuK";
+          var wechat = "11";
+          var tenpay = "1";
+   
+          var paypal = "12";
+          var myname = "KAI";
           var profile = "https://gravatar.loli.net/avatar/289efba375d63424de3c49569c446744?s=320";
           var multilingual = true;
-          var myname_hans = "吴坎";
-          var myname_hant = "吴坎";
+          var myname_hans = "KAI";
+          var myname_hant = "KAI";
           var myname_eng = "WuK";
-          var title = "选择你的支付方式";
+          var title = "暂时不能支付";
           var subtitle = "跟随进一步的指示以向" + myname + "付款";
           var qrcodeapi = "https://www.zhihu.com/qrcode?url=";
         </script>
