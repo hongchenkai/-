@@ -6,7 +6,7 @@
 
 ## 我的一些联系方式
 
-- [QQ交流群](https://shang.qq.com/wpa/qunwpa?idkey=520f07f8adff1ae1396e300919de23fde1b8cbc1d86dda036d0dd952e524ee68)
+- [QQ交流群](https://shang.qq.com/wpa/qunwpa?idkey=520f07f8adff1ae1396e300919de23fde1b8cbc1d86dda036d0dd952e524ee68):有什么话想我和说吗？
 - 为何不来看看我: **[我的Github主页](https://github.com/2398954487)**
 - 官网: **<https://inforest.xzzxz.cn>**
 
