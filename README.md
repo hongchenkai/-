@@ -2,7 +2,6 @@
 
 欢迎访问我的个人主页！下面向你介绍一下我自己吧~
 [想直接访问博文?](https://inforest.xzzxz.cn/tags/)
-<!-- slide vertical=true -->
 <!-- slide -->
 
 ## 我的一些联系方式
