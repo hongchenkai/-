@@ -469,29 +469,7 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
               return button;
             })'
         ></script>
-  comments: # 留言页
-    alert: | # 配置评论区，appId和appKey需要换成你自己的，见<https://valine.js.org/configuration.html>
-      <div class="v">
-        <i class="fas fa-spinner fa-pulse"></i>
-      </div>
-      <script
-        src='https://cdn.jsdelivr.net/npm/valine/dist/Valine.min.js'
-        defer='defer'
-        onload='
-          new Valine({
-            "el": ".v",
-            "appId": "9hABRddSuEkTgqLrt1VSK5B1-gzGzoHsz",
-            "appKey": "NJ7RwmgrxsF7KDzlqU7YewlL",
-            "notify": "true",
-            "verify": "true",
-            "avatar": "identicon",
-            "placeholder": "在这里评论吧！",
-            "visitor": true,
-            "highlight": true,
-            "avatarForce": false,
-            "recordIP": true
-          })'
-      ></script>
+ 
   post:
     date: # 显示博文时间
       enable: true
