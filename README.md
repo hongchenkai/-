@@ -36,7 +36,7 @@ HANGZHOU市XIAOSHAN区义桥实验学校17届2班体委HCK
 ## 我的一些作品
 
 <!-- slide vertical=true -->
-- 获取免费的FTP服务器 [![Star](https://img.shields.io/github/stars/2398954487/2398954487.github.io.svg)](https://github.com/2398954487/2398954487.GitHub.io/blob/c593911bb86a04406351232f6caa0e48008ecb4b/%E5%85%B1%E4%BA%ABFTP%E6%9C%8D%E5%8A%A1%E5%99%A8/FTP%E6%9C%8D%E5%8A%A1%E5%99%A8.txt)
+- 获取免费的FTP服务器 [![Star](https://img.shields.io/github/stars/2398954487/2398954487.github.io.svg)](https://github.com/2398954487/2398954487.GitHub.io/tree/c593911bb86a04406351232f6caa0e48008ecb4b/%E5%85%B1%E4%BA%ABFTP%E6%9C%8D%E5%8A%A1%E5%99%A8)
 - [x] 我的[数据库作品集](https://github.com/2398954487/2398954487.GitHub.io)
 - [x] 我的[博客代码](https://github.com/wu-kan/wu-kan.github.io)，也欢迎你用于搭建自己的页面
 - [x] 右下角2D AI智能人物[Pc端显示]
