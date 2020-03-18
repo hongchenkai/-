@@ -157,15 +157,8 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
               });
             }'
         ></script>
-      - | # 评论配置
-        <script 
-          src="https://utteranc.es/client.js"
-          repo="2398954487/pinlunchucun"
-          issue-term = "title"
-          theme="github-light"
-          crossorigin="anonymous"
-          async>
-        ></script>
+   
+     
 
       - | # 百度爬虫推送，http站点使用 http://push.zhanzhang.baidu.com/push.js
         <script
