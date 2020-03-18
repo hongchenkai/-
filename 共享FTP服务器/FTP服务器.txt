@@ -1,0 +1,4 @@
+FTP 服务器：	ftp5001.site4future.com
+FTP 登录名：	q2398954487-001
+FTP 密码：	同主机登陆密码
+FTP 目录/路径	\
