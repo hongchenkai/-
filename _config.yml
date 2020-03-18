@@ -625,6 +625,21 @@ kramdown: # 见<https://kramdown.gettalong.org/options.html>
   syntax_highlighter_opts: # 可见<https://kramdown.gettalong.org/syntax_highlighter/rouge.html>
     disable: flase # 关掉默认的高亮，换用prismjs
 
+<script 
+// 加载的客户端脚本
+    src="https://utteranc.es/client.js"
+// repo 就是访问的仓库，格式 用户名/仓库名
+// 个人就是 repo="wsafight/personBlog"
+        repo="[pinlunchucun]"
+
+// 选定的当前blog 与 issue 之间的关系
+// 个人使用的是不会自动创建的 issue-number，每个issue都有自己的number。该选项是使用特定的issue
+        issue-term="pathname"
+// 主题为  github-light 还有其他主题可以选择        
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
 # 以下为 githubpage上不可修改的参数，见<https://help.github.com/en/github/working-with-github-pages/about-github-pages-and-jekyll>
 #lsi: false # 为相关文章生成索引
 #safe: true # 禁用自定义插件
