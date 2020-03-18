@@ -625,17 +625,9 @@ kramdown: # 见<https://kramdown.gettalong.org/options.html>
   syntax_highlighter_opts: # 可见<https://kramdown.gettalong.org/syntax_highlighter/rouge.html>
     disable: flase # 关掉默认的高亮，换用prismjs
 
-<script 
-// 加载的客户端脚本
-    src="https://utteranc.es/client.js"
-// repo 就是访问的仓库，格式 用户名/仓库名
-// 个人就是 repo="wsafight/personBlog"
-        repo="[pinlunchucun]"
-
-// 选定的当前blog 与 issue 之间的关系
-// 个人使用的是不会自动创建的 issue-number，每个issue都有自己的number。该选项是使用特定的issue
+<script src="https://utteranc.es/client.js"
+        repo="pinlunchucun"
         issue-term="pathname"
-// 主题为  github-light 还有其他主题可以选择        
         theme="github-light"
         crossorigin="anonymous"
         async>
