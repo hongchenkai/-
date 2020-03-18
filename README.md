@@ -1,7 +1,7 @@
 # INforest天空
 
 欢迎访问我的个人主页！下面向你介绍一下我自己吧~
-[全国中学生程序设计竞赛-定稿](https://inforest.xzzxz.cn/_posts/2020-03-18-2018%E4%B8%AD%E5%9B%BD%E4%B8%AD%E5%AD%A6%E7%94%9F%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E7%AB%9E%E8%B5%9B-%E7%BD%91%E7%BB%9C%E9%80%89%E6%8B%94%E8%B5%9B/)
+出了点小bug，暂时修整
 <!-- slide -->
 
 ## 我的一些联系方式
