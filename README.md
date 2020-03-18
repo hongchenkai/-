@@ -24,7 +24,7 @@
 
 <!-- slide vertical=true -->
 
-- *HANGZHOU市XIAOSHAN区义桥实验学校17届2班体委HCK*
+- *HANGZHOU市XIAOSHAN区义桥实验学校17届2班HCK*
 ![image](http://m.qpic.cn/psc?/V14LwYwV3xHyUe/4r5V*ti6WXpFIFXipK.NEoEhA2rdziWJr*myQ3q5YguEDume7ggITVm.utPwIIn7sBjliex6Kl7YfM2OL.00uPm60Q5ACpfyH.*dUal*0sg!/b&bo=0AKuAtACrgIRGS4!&rf=viewer_4&t=5)
 
 <!-- slide vertical=true -->
