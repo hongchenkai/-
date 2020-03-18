@@ -476,27 +476,21 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
         ></script>
   comments: # 留言页
     alert: | # 配置评论区，appId和appKey需要换成你自己的，见<https://valine.js.org/configuration.html>
-      <div class="v">
-        <i class="fas fa-spinner fa-pulse"></i>
-      </div>
-      <script
-        src='https://cdn.jsdelivr.net/npm/valine/dist/Valine.min.js'
-        defer='defer'
-        onload='
-          new Valine({
-            "el": ".v",
-            "appId": "9hABRddSuEkTgqLrt1VSK5B1-gzGzoHsz",
-            "appKey": "NJ7RwmgrxsF7KDzlqU7YewlL",
-            "notify": "true",
-            "verify": "true",
-            "avatar": "identicon",
-            "placeholder": "在这里评论吧！",
-            "visitor": true,
-            "highlight": true,
-            "avatarForce": false,
-            "recordIP": true
-          })'
-      ></script>
+ <div id="container"></div>
+<link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
+<script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
+<script>
+var gitment = new Gitment({
+  id: location.href
+  owner: '2398954487',
+  repo: 'pinlunchucun',
+  oauth: {
+    client_id: '68ccf47cc39192340bd5',
+    client_secret: '10218a0dc68ed606f3e8801189c33212931be229',
+  },
+})
+gitment.render('container')
+</script>
   post:
     date: # 显示博文时间
       enable: true
