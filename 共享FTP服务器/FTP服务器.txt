@@ -2,3 +2,5 @@ FTP 服务器：	ftp5001.site4future.com
 FTP 登录名：	q2398954487-001
 FTP 密码：	13867148011
 FTP 目录/路径	\
+请勿用于非法用途，我会监管
+使用FileZilla 连接
