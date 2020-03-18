@@ -6,7 +6,7 @@
 
 ## 我的一些联系方式
 
-- TEl: **暂时丢失**
+- [QQ交流群](https://shang.qq.com/wpa/qunwpa?idkey=00e268e61e9a98228050357f78234aa86dc03bbb895b0b0b4e906b529d59e094)
 - 为何不来看看我: **[我的Github主页](https://github.com/2398954487)**
 - 官网: **<https://inforest.xzzxz.cn>**
 
