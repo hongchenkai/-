@@ -175,7 +175,7 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
           }
           @media (min-aspect-ratio: 2400/1850) {
             .wrap {
-              background-image: url（http://m.qpic.cn/psc?/V14LwYwV33h6v1/4r5V*ti6WXpFIFXipK.NElVsqW8rlYutp2cpG70DgIFfdeVJ5hrsuTHK9PuzGwrnybpNAAtpSaKvO8f2gPJk810xsVNvsqFiVTEsaW3E6yM!/b&bo=TATnAgAAAAARF40!&rf=viewer_4&t=5);
+              background-image: url（https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1584509262975&di=b36a3c177c9014bbee28090ac234b15d&imgtype=0&src=http%3A%2F%2Fi0.hdslb.com%2Fbfs%2Farticle%2F3260952d6e828f420afb2f54ddec32cfb096bc77.jpg);
             }
           }
         </style>
