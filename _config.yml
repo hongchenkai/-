@@ -625,13 +625,14 @@ kramdown: # 见<https://kramdown.gettalong.org/options.html>
   syntax_highlighter_opts: # 可见<https://kramdown.gettalong.org/syntax_highlighter/rouge.html>
     disable: flase # 关掉默认的高亮，换用prismjs
 
-<script src="https://utteranc.es/client.js"
+script src="https://utteranc.es/client.js"
         repo="pinlunchucun"
         issue-term="pathname"
         theme="github-light"
         crossorigin="anonymous"
         async>
 </script>
+
 # 以下为 githubpage上不可修改的参数，见<https://help.github.com/en/github/working-with-github-pages/about-github-pages-and-jekyll>
 #lsi: false # 为相关文章生成索引
 #safe: true # 禁用自定义插件
