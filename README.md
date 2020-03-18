@@ -3,7 +3,12 @@
 欢迎访问我的个人主页！下面向你介绍一下我自己吧~
 [想直接访问博文?](https://inforest.xzzxz.cn/tags/)
 <!-- slide vertical=true -->
-<script src="https://utteranc.es/client.js" repo="2398954487/pinlunchucun" issue-term = "title" theme="github-dark" crossorigin="anonymous" async> ></script>
+<script src="https://utteranc.es/client.js" 
+repo="2398954487/pinlunchucun" 
+issue-term = "title" 
+theme="github-dark" 
+crossorigin="anonymous" 
+async> ></script>
 <!-- slide -->
 
 ## 我的一些联系方式
