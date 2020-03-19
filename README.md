@@ -2,7 +2,7 @@
 
 欢迎访问我的个人主页！下面向你介绍一下我自己吧~
 - [想要直接阅读博文？](https://inforest.xzzxz.cn/tags)
-- 统计博客被炸次数：1
+- [我竞赛的地方](https://vjudge.net/group/hzyqsy)
 <!-- slide vertical=true -->
 <!-- slide -->
 
