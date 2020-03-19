@@ -6,7 +6,7 @@
 - [我在VT的团队](https://vjudge.net/group/hzyqsy)
 <!-- slide vertical=true -->
 ## 成就 
-#### VT日榜第63位[不懂VT可以自行科普]
+#### VT日榜第63位[不懂VT点这里]（https://blog.csdn.net/fymx203/article/details/89343782）
 ![8syRSK.png](https://s1.ax1x.com/2020/03/19/8syRSK.png)
 <!-- slide -->
 
