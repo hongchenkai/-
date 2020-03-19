@@ -5,6 +5,8 @@
 - [我在VT的排名](https://vjudge.net/user#username=&nickname=&school=%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20&statRange=0)
 - [我在VT的团队](https://vjudge.net/group/hzyqsy)
 <!-- slide vertical=true -->
+## VT日榜第63位[不懂VT可以自行科普]
+![8syRSK.png](https://s1.ax1x.com/2020/03/19/8syRSK.png)
 <!-- slide -->
 
 ## 我的一些联系方式
