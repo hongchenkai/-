@@ -91,7 +91,7 @@
 <!-- slide -->
 
 ## 我的一些文字
-[2020-3-19-公告](https://inforest.xzzxz.cn/_posts/2020-03-19-%E4%BB%8A%E6%97%A5%E6%AD%A4%E6%97%B6%E6%89%80%E6%83%B3%E4%B9%8B%E4%BA%8B/)
+[2020-3-19-公告](https://inforest.xzzxz.cn/_posts/2020-03-19-%E9%80%9A%E7%9F%A5/)
 
 <!-- slide vertical=true -->
 ## 打开侧边栏了解我的博客
