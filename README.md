@@ -1,10 +1,9 @@
 # INforest天空
 
 欢迎访问我的个人主页！下面向你介绍一下我自己吧~
-由于产生了一些错误，我的博文全部报销了QAQ
+[想要直接阅读博文？]（https://inforest.xzzxz.cn/tags/）
+- 统计博客被炸次数：1
 <!-- slide vertical=true -->
-链接将近爆掉了一半，原因竟然是人数过多，~~我想哭~~又哭不出来
-a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=2398954487&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:2398954487:52" alt="点击这里给我发消息" title="点击这里给我发消息"/></a>
 <!-- slide -->
 
 ## 我的一些联系方式
