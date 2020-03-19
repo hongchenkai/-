@@ -3,6 +3,7 @@
 欢迎访问我的个人主页！下面向你介绍一下我自己吧~
 - [想要直接阅读博文？](https://inforest.xzzxz.cn/tags)
 - [我在VT的排名](https://vjudge.net/user#username=&nickname=&school=%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20&statRange=0)
+- [我在VT的团队](https://vjudge.net/group/hzyqsy)
 <!-- slide vertical=true -->
 <!-- slide -->
 
