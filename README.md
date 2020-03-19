@@ -1,7 +1,7 @@
 # INforest天空
 
 欢迎访问我的个人主页！下面向你介绍一下我自己吧~
-[想要直接阅读博文？]（https://inforest.xzzxz.cn/tags/）
+- [想要直接阅读博文？](https://inforest.xzzxz.cn/tags)
 - 统计博客被炸次数：1
 <!-- slide vertical=true -->
 <!-- slide -->
