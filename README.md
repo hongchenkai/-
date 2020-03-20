@@ -2,7 +2,7 @@
 
 欢迎访问我的个人主页！下面向你介绍一下我自己吧~
 - [想要直接阅读博文？](https://inforest.xzzxz.cn/tags)
-- [我在VT的排名](https://vjudge.net/user#username=&nickname=&school=%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20&statRange=0)
+- [#镇站之宝，灵魂歌手](https://inforest.xzzxz.cn/_posts/2020-03-20-%E6%AD%8C/)
 - [我在VT的团队](https://vjudge.net/group/hzyqsy)
 
 
