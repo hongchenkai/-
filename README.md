@@ -4,7 +4,7 @@
 - [想要直接阅读博文？](https://inforest.xzzxz.cn/tags)
 - [我在VT的排名](https://vjudge.net/user#username=&nickname=&school=%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20&statRange=0)
 - [我在VT的团队](https://vjudge.net/group/hzyqsy)
-- background_music: '<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=29207835&auto=1&height=66"></iframe>'
+
 
 <!-- slide -->
 
