@@ -2,7 +2,7 @@
 
 欢迎访问我的个人主页！下面向你介绍一下我自己吧~
 - [想要直接阅读博文？](https://inforest.xzzxz.cn/tags)
-- [#官网！](https://inforest.xzzxz.cn/_posts/2020-03-20-%E6%AD%8C/)
+- [#哔哩哔哩！](https://inforest.xzzxz.cn/_posts/2020-03-20-%E6%AD%8C/)
 - [我在VT的团队](https://vtyqsy.xzzxz.cn/#)
 <!-- slide vertical=true -->
 
