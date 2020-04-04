@@ -11,7 +11,7 @@
     border="0" 
     frameborder="no" 
     framespacing="0" 
-    allowfullscreen="true"> 
+    allowfullscreen="false"> 
     </iframe>
    
 <!-- slide -->
