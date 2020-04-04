@@ -1,4 +1,4 @@
-## 日常漂浮在天空的博客
+# kai日常的博客
 
 状态：正常学习中~
 - [归档的一些文章？](https://hongchenkai.github.io/tags)
