@@ -1,7 +1,7 @@
 title: kai的博客 #站点标题
 description: | # 头像背后的信息（html格式），<br/>代表换行
-  初三在读<br/>
-  VT日排行第46位<br/>
+  致敬医护人员！<br/>
+  初三党<br/>
   ball/csgo/编程<br/>
   https://inforest.xzzxz.cn<br/>
   <a href="mailto:2398954487@qq.com">
@@ -28,7 +28,7 @@ description: | # 头像背后的信息（html格式），<br/>代表换行
     marginwidth="0"
     marginheight="0"
   ></iframe>
-url: https://inforest.xzzxz.cn # 你的域名，例如https://wu-kan.github.io
+url: https://hongchenkai.github.io # 你的域名，例如https://wu-kan.github.io
 baseurl: "" # 假如你的博客是建在某个目录下的，请在这里加上目录名，并且下面配置的所有链接里的`/assets`前也要加，即`/your_baseurl/assets`。这一项结尾不要有'/'。
 
 jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
@@ -119,7 +119,7 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
                 "hidden": true,
                 "content": {
                   "link": ["https://inforest.xzzxz.cn/comments/"],
-                  "skin": ["要换成我的朋友吗？", "让她放个假吧~"],
+                  "skin": ["医护人员加油！", "武汉棒棒哒~"],
                   "custom": [{
                     "selector": "a",
                     "type": "link",
