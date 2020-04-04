@@ -16,9 +16,9 @@
    
 <!-- slide -->
 
-## 我的一些文字
-[2020-3-19-公告](https://inforest.xzzxz.cn/_posts/2020-03-19-%E9%80%9A%E7%9F%A5/)
+## 希望大家都能健康！
+【借你吉言】
 
 <!-- slide vertical=true -->
 ## 打开侧边栏了解更多
-y
+
