@@ -5,7 +5,7 @@
 <!-- slide vertical=true -->
 <iframe 
     width="800" 
-    height="450" 
+    height="600" 
     src="//player.bilibili.com/player.html?aid=967518186&bvid=BV1Yp4y117pH&cid=172102423&page=1" 
     scrolling="no" 
     border="0" 
