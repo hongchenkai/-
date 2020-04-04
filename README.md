@@ -1,9 +1,9 @@
-# INforest天空
+# 日常漂浮在天空的博客
 
-欢迎访问我的个人主页！下面向你介绍一下我自己吧~
-- [想要直接阅读博文？](https://inforest.xzzxz.cn/tags)
+状态：正常学习中~
+- [想要直接阅读博文？](https://hongchenkai.github.io/tags)
 - [#哔哩哔哩！](https://inforest.xzzxz.cn/_posts/2020-03-20-%E6%AD%8C/)
-- [我在VT的团队](https://vtyqsy.xzzxz.cn/#)
+- [Mc求关注](https://vtyqsy.xzzxz.cn/#)
 <!-- slide vertical=true -->
 
 ## 我的留言
