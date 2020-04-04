@@ -6,7 +6,8 @@
 
 ## 
 ![](https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=1519875058,3483679058&fm=11&gp=0.jpg)
-![](www.baidu.com)
+<!-- slide -->
+<video src="https://www.bilibili.com/video/BV1Yp4y117pH" controls="controls" width="500" height="300">您的浏览器不支持播放该视频！</video>
 <!-- slide -->
 
 ## 我的一些文字
