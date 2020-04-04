@@ -233,7 +233,12 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
           }
         </style>
       - | # 如果你会CSS的话，在这里自定义你的页面样式吧~
-        <style>
+      
+      html {
+-webkit-filter: grayscale(100%);
+-webkit-filter: grayscale(1);
+}
+<style>
           img {
             display: inline-block;
             margin: 0;
