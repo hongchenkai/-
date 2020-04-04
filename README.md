@@ -1,7 +1,7 @@
 # kai日常的博客
 
 ## 深切哀悼
-> 抗击新冠肺炎疫情斗争牺牲烈士和逝世同胞
+#### 抗击新冠肺炎疫情斗争牺牲烈士和逝世同胞
 ![](https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=2707881020,3314832193&fm=11&gp=0.jpg)
 <!-- slide vertical=true -->
 
