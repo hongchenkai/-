@@ -6,7 +6,9 @@
 
 ![](https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=1519875058,3483679058&fm=11&gp=0.jpg)
 <!-- slide -->
-![Watch the video](https://www.bilibili.com/video/BV1Yp4y117pH/)
+<video id="video" controls="" preload="none">
+    <source id="https://www.bilibili.com/video/BV1Yp4y117pH/">
+</video>
 <!-- slide -->
 
 ## 我的一些文字
