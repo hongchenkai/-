@@ -1,7 +1,7 @@
-# 日常漂浮在天空的博客
+## 日常漂浮在天空的博客
 
 状态：正常学习中~
-- [想要直接阅读博文？](https://hongchenkai.github.io/tags)
+- [试试留言？](https://hongchenkai.github.io/tags)
 - [#哔哩哔哩！](https://inforest.xzzxz.cn/_posts/2020-03-20-%E6%AD%8C/)
 - [Mc求关注](https://vtyqsy.xzzxz.cn/#)
 <!-- slide vertical=true -->
