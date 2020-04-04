@@ -5,11 +5,8 @@
 <!-- slide vertical=true -->
 
 ## 
-愿我的孤岛能与世界架起桥梁
-- [归档的一些文章？](https://hongchenkai.github.io/tags)
-- [试试留言](https://hongchenkai.github.io/comments)
-- [RMB帮助](https://hongchenkai.github.io/merger)
-
+![](https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=1519875058,3483679058&fm=11&gp=0.jpg)
+![](www.baidu.com)
 <!-- slide -->
 
 ## 我的一些文字
