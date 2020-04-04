@@ -6,10 +6,14 @@
 <iframe 
     width="800" 
     height="450" 
-    src="https://www.bilibili.com/video/BV1Yp4y117pH/"
-    frameborder="0" 
-    allowfullscreen>
-</iframe>
+    src="//player.bilibili.com/player.html?aid=967518186&bvid=BV1Yp4y117pH&cid=172102423&page=1" 
+    scrolling="no" 
+    border="0" 
+    frameborder="no" 
+    framespacing="0" 
+    allowfullscreen="true"> 
+    </iframe>
+   
 <!-- slide -->
 
 ## 我的一些文字
