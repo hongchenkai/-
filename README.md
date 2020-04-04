@@ -6,7 +6,7 @@
 <iframe 
     width="800" 
     height="450" 
-    src="https://www.bilibili.com/video/BV1Yp4y117pH/_"
+    src="https://www.bilibili.com/video/BV1Yp4y117pH/"
     frameborder="0" 
     allowfullscreen>
 </iframe>
