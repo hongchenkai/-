@@ -1,9 +1,7 @@
 # 埊埊凯的主页
-> 缅怀抗击新冠肺炎疫情斗争牺牲烈士和逝世同胞
+> Feel the magic in the air 
 <!-- slide -->
-### Feel the magic in the air
-## 感受空气中的魔力
-## Allez, allez, allez
+归档！
 <!-- slide -->
 + 下面是我最喜欢的billbill的视频
 <!-- slide vertical=true -->
