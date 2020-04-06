@@ -4,11 +4,13 @@
 ### Feel the magic in the air
 ## 感受空气中的魔力
 ## Allez, allez, allez
+<!-- slide -->）
++ 下面是我最喜欢的billbill的视频
 <!-- slide vertical=true -->
 <iframe 
     width="800" 
     height="600" 
-    src="//player.bilibili.com/player.html?aid=967518186&bvid=BV1Yp4y117pH&cid=172102423&page=1" 
+    src="//player.bilibili.com/player.html?aid=53437058&bvid=BV1q4411L7cW&cid=93489702&page=1" 
     scrolling="no" 
     border="0" 
     frameborder="no" 
