@@ -4,7 +4,7 @@
 ### Feel the magic in the air
 ## 感受空气中的魔力
 ## Allez, allez, allez
-<!-- slide -->）
+<!-- slide -->
 + 下面是我最喜欢的billbill的视频
 <!-- slide vertical=true -->
 <iframe 
