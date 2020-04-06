@@ -17,11 +17,6 @@
     framespacing="0" 
     allowfullscreen="false"> 
     </iframe>
-   
-<!-- slide -->
-
-## 希望大家都能健康！
-【借你吉言】
 
 <!-- slide vertical=true -->
 ## 打开侧边栏了解更多
