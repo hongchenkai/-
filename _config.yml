@@ -364,10 +364,15 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
         - | # 觉得我的主题好用的话，让更多的人知道它吧！
           <div>
             <i class="fas fa-thumbs-up fa-fw"></i>
-            <a href="http://cc.1xie.xyz/">
-             友情链接：【奥特域名分发】[我也在用]
-            </a>
+           
+             友情链接：
+            
           </div>
+          <div>
+           <a href="http://cc.1xie.xyz/">
+           【奥特域名分发】
+           </a>
+           </div>
       wordcount: # 全站字数统计
         enable: true # 本地调试时建议关闭，非常影响站点生成速度（所需时间与博文数量的平方成正比）
         alert: <i class="fas fa-user-edit fa-fw"></i>
