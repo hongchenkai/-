@@ -6,7 +6,7 @@
 </br> 规划：以P.E. students的身份，然后高中主攻信息
 </br> `|艾玛，一不小心进秃头交流群了|`
 <!-- slide -->
-+ 鬼畜【搞笑】
++ 鬼畜【哔哩哔哩的外链真的不好用】
 <!-- slide vertical=true -->
 <iframe 
     width="800" 
