@@ -16,9 +16,15 @@
     framespacing="0" 
     allowfullscreen="false"> 
     </iframe>
+<!-- slide -->
+```mermaid
+graph LR
+pen-->pineapple apple pen
+pineapple-->pineapple apple pen
+apple-->pineapple apple pen
+pineapple apple pen-->肯定是我我疯了
 
-
-
+```
 <!-- slide vertical=true -->
 ## 打开侧边栏了解更多
 
