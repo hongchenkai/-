@@ -118,7 +118,7 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
                 "mode": "fixed",
                 "hidden": true,
                 "content": {
-                  "link": ["https://inforest.xzzxz.cn/comments/"],
+                  "link": ["http://kai.52yi.vip/comments/"],
                   "skin": ["医护人员加油！", "武汉棒棒哒~"],
                   "custom": [{
                     "selector": "a",
