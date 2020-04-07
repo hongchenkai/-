@@ -9,8 +9,8 @@
 + 鬼畜【哔哩哔哩的外链真的不好用】
 <!-- slide vertical=true -->
 <iframe 
-    width="800" 
-    height="600" 
+    width="1200" 
+    height="1000" 
     src="//player.bilibili.com/player.html?aid=53437058&bvid=BV1q4411L7cW&cid=93489702&page=1"
     scrolling="no" 
     border="0" 
