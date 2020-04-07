@@ -1,5 +1,5 @@
 # 无名之辈
-> something is the best way 
+> Fighting is the best way 
 <!-- slide -->
 * 就读学校：义桥实验学校
 </br>状态：备战中考
