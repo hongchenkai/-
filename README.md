@@ -10,7 +10,7 @@
 <!-- slide vertical=true -->
 <iframe 
     width="1000" 
-    height="700" 
+    height="900" 
     src="//player.bilibili.com/player.html?aid=53437058&bvid=BV1q4411L7cW&cid=93489702&page=1"
     scrolling="no" 
     border="0" 
