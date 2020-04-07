@@ -27,7 +27,7 @@ UpdateChecker: true
 ```
 ```sequence
 命令方块->数据: 分数为多少了?
-Note right of Bob: 数据储存
+Note right of 数据: 数据储存
 数据--命令方块: 数据到了!
 ```
 
