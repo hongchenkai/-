@@ -10,7 +10,7 @@ description: | # 头像背后的信息（html格式），<br/>代表换行
   <a href="https://github.com/2398954487">
     <i class="fab fa-github"></i>
   </a>
-  <a href="https://zhidao.baidu.com/usercenter?uid=4f3e4069236f25705e79076e
+  <a href="https://zhidao.baidu.com/usercenter?uid=4f3e4069236f25705e79076e">
     <i class="fas fa-chart-bar"></i>
   </a>
   <a href="https://vjudge.net/user/kaiERROr">
@@ -20,7 +20,7 @@ description: | # 头像背后的信息（html格式），<br/>代表换行
     <i class="fab fa-qq"></i>
   </a>
   <iframe
-    src="https://music.163.com/outchain/player?type=2&id=1363677122&auto=0&height=32"
+    src="https://music.163.com/outchain/player?type=2&id=26794640&auto=1&height=66"
     width=100%
     height=52
     frameborder="no"
