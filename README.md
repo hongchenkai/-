@@ -1,4 +1,4 @@
-# $\color{##00F5FF}{每一天循环}$
+# 每一天循环
 > Fighting is the best way 
 <!-- slide -->
 * 就读学校：义桥实验学校
