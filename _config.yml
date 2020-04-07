@@ -366,9 +366,9 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
             <i class="fas fa-thumbs-up fa-fw"></i>
              友情链接
             <a href="https://jekyll-theme-WuK.wu-kan.cn">
-            jekyll-theme-WuK
-            <a href="https://jekyll-theme-WuK.wu-kan.cn">
-             筱谢博客
+          </br>jekyll-theme-WuK
+            <a href="http://www.1xie.xyz/">
+          </br>筱谢博客
             </a>
           </div>
       wordcount: # 全站字数统计
