@@ -1,4 +1,3 @@
-<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox" {% if page.title =="Home" %}checked{% endif %}>
 title: kai的博客 #站点标题
 description: | # 头像背后的信息（html格式），<br/>代表换行
  　这是一个鬼才！<br/>
