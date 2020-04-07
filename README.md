@@ -6,7 +6,7 @@
 </br> 规划：以P.E. students的身份，然后高中主攻信息
 </br> `|艾玛，一不小心进秃头交流群了|`
 <!-- slide -->
-+ 鬼畜【hehe】
++ 鬼畜 **欢迎食用**
 <!-- slide vertical=true -->
 <iframe 
     width="1100" 
