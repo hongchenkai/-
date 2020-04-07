@@ -1,8 +1,10 @@
 # 无名之辈
 > something is the best way 
 <!-- slide -->
-归档！
-- **[2020_4_6_我的世界colormotd配置](http://kai.52yi.vip/_posts/2020-04-06-%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8Ccoloryml%E9%85%8D%E7%BD%AE/)**
+*就读学校：义桥实验学校
+</br>状态：备战中考
+</br> 规划：以体育生的身份，然后高中主攻信息
+</br> 艾玛，一不小心进秃头交流群了
 <!-- slide -->
 + 下面是我最喜欢的billbill的视频
 <!-- slide vertical=true -->
