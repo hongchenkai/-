@@ -25,7 +25,11 @@ showDelay: true
 UpdateChecker: true
 }
 ```
-
+```sequence
+命令方块->数据: 分数为多少了?
+Note right of Bob: 数据储存
+数据--命令方块: 数据到了!
+```
 
 #看了不懂可以留言
 
