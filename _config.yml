@@ -364,7 +364,7 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
         - | # 觉得我的主题好用的话，让更多的人知道它吧！
           <div>
             <i class="fas fa-thumbs-up fa-fw"></i>
-             友情链接
+             帮助过我的人
             <a href="https://jekyll-theme-WuK.wu-kan.cn">
           </br>jekyll-theme-WuK
             <a href="http://www.1xie.xyz/">
