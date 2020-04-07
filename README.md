@@ -6,11 +6,11 @@
 </br> 规划：以P.E. students的身份，然后高中主攻信息
 </br> `|艾玛，一不小心进秃头交流群了|`
 <!-- slide -->
-+ 鬼畜【哔哩哔哩的外链真的不好用】
++ 鬼畜【hehe】
 <!-- slide vertical=true -->
 <iframe 
-    width="1200" 
-    height="1000" 
+    width="1500" 
+    height="900" 
     src="//player.bilibili.com/player.html?aid=53437058&bvid=BV1q4411L7cW&cid=93489702&page=1"
     scrolling="no" 
     border="0" 
