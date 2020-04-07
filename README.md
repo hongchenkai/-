@@ -1,5 +1,5 @@
 # 无名之辈
-> Feel the magic in the air 
+> something is the best way 
 <!-- slide -->
 归档！
 - **[2020_4_6_我的世界colormotd配置](http://kai.52yi.vip/_posts/2020-04-06-%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8Ccoloryml%E9%85%8D%E7%BD%AE/)**
