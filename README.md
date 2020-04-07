@@ -1,4 +1,4 @@
-# 鬼畜区玩家
+# 
 > Fighting is the best way 
 <!-- slide -->
 * 就读学校：义桥实验学校
@@ -9,8 +9,8 @@
 + 鬼畜【hehe】
 <!-- slide vertical=true -->
 <iframe 
-    width="1500" 
-    height="900" 
+    width="1200" 
+    height="800" 
     src="//player.bilibili.com/player.html?aid=53437058&bvid=BV1q4411L7cW&cid=93489702&page=1"
     scrolling="no" 
     border="0" 
