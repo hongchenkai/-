@@ -1,11 +1,12 @@
 # 每一天循环
-> Fighting is the best way [电脑按ESC键查看PPT文案]
+> Fighting is the best way 
+</br>`[电脑按ESC键查看PPT文案]`
 <!-- slide -->
 </br>状态：备战中考
 </br> 规划：以P.E. students的身份，然后高中主攻信息
 </br> `|艾玛，一不小心进秃头交流群了|`
 <!-- slide -->
-+ 和up主一起学习 **欢迎食用**
+### 和up主一起学习 **欢迎食用**
 <!-- slide vertical=true -->
 <iframe 
     width="1100" 
