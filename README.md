@@ -1,10 +1,12 @@
 # 每一天循环
 > Fighting is the best way 
-</br>`[电脑按ESC键查看略缩图]`
+
 <!-- slide -->
-</br>状态：备战中考
-</br> 规划：以P.E. students的身份，然后高中主攻信息
-</br> `|艾玛，一不小心进秃头交流群了|`
+</br>目录
+</br>+ [有疑问请[2398954487@qq.com]]
+</br>* [1.和UP主一起学习](https://kai.52yi.vip/#/2/1) 
+</br>* [2.后续更新]
+</br>`[电脑按ESC键查看略缩图]`
 <!-- slide -->
 ### 和up主一起学习 **欢迎食用**
 <!-- slide vertical=true -->
@@ -20,10 +22,9 @@
     </iframe>
 <!-- slide -->
 ```mermaid
-pen-->pineapple apple pen
-pineapple-->pineapple apple pen
-apple-->pineapple apple pen
-pineapple apple pen--> nothing
+</br>状态：备战中考
+</br> 规划：以P.E. students的身份，然后高中主攻信息
+</br> `|艾玛，一不小心进秃头交流群了
 
 ```
 <!-- slide vertical=true -->
