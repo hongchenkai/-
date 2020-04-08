@@ -20,11 +20,12 @@
     framespacing="0" 
     allowfullscreen="false"> 
     </iframe>
+   `左上角按钮打开侧边栏`
 <!-- slide -->
 ```mermaid
 状态：正常学习
 规划：以P.E. students的身份，然后高中主攻信息
-`|艾玛，一不小心进秃头交流群了
+艾玛，一不小心进秃头交流群了
 
 ```
 <!-- slide vertical=true -->
