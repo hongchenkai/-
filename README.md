@@ -2,7 +2,7 @@
 > Fighting is the best way 
 
 <!-- slide -->
-+ <font color=red size=72>目录</font>
++ <font color=#0099ff size=7 face="黑体">目录</font>
     * <font color=#0099ff size=7 face="黑体">[与up主一起学习](https://kai.52yi.vip/#/2/1)</font>
     * <font color=#0099ff size=7 face="黑体">[个人状态每日更新](https://kai.52yi.vip/#/3)</font>
     * 后续更新
