@@ -10,7 +10,7 @@
 <iframe 
     width="1100" 
     height="780" 
-    src="https://s1.hdslb.com/bfs/static/blive/live-assets/player/flash/pageplayer-latest.swf?room_id=8397302&cid=8397302&state=LIVE"
+    src="https://live.bilibili.com/8397302"
     scrolling="no" 
     border="0" 
     frameborder="no" 
