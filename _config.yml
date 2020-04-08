@@ -1,7 +1,7 @@
 title: kai的博客 #站点标题
 description: | # 头像背后的信息（html格式），<br/>代表换行
  　这是一个鬼才！<br/>
-  初三党<br/>
+<a href="http://www.1xie.xyz/">初三党[添加友链见这篇文章]<br/>
  　人生一场 别去分清真相<br/>
   kai.52yi.vip<br/>
   <a href="mailto:2398954487@qq.com">
@@ -171,7 +171,7 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
             background-position: center top;
             background-repeat: no-repeat;
             background-attachment: fixed;
-            background-image: url(https://s1.ax1x.com/2020/04/08/GRZkCT.jpg);
+            background-image: url(http://img1.imgtn.bdimg.com/it/u=3800764444,2453922217&fm=11&gp=0.jpg);
           }
           @media (min-aspect-ratio: 2400/1850) {
             .wrap {
