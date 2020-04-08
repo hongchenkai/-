@@ -1,4 +1,4 @@
-<font color=#0099ff size=7 face="每一天循环"></font>
+<font color=#00ffff size=72>每一天循环</font>
 > Fighting is the best way 
 
 <!-- slide -->
