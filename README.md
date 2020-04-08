@@ -1,10 +1,10 @@
-# 每一天循环
+<font color=#0099ff size=7 face="每一天循环"></font>
 > Fighting is the best way 
 
 <!-- slide -->
 </br>目录
 + 第一次更新
-    * [与up主一起学习](https://kai.52yi.vip/#/2/1)<font color=#0099ff size=7 face="黑体">color=#0099ff size=72 face="黑体"</font>
+    * [与up主一起学习](https://kai.52yi.vip/#/2/1)
     * [个人状态每日更新](https://kai.52yi.vip/#/3)
     * 后续更新
 </br>`[电脑按ESC键查看略缩图]`
