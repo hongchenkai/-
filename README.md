@@ -10,6 +10,7 @@
 <!-- slide -->
 ### 和up主一起学习 **欢迎食用**
 <!-- slide vertical=true -->
+`左上角按钮打开侧边栏`
 <iframe 
     width="1100" 
     height="780" 
@@ -20,7 +21,7 @@
     framespacing="0" 
     allowfullscreen="false"> 
     </iframe>
-   `左上角按钮打开侧边栏`
+
 <!-- slide -->
 ```mermaid
 状态：正常学习
