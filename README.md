@@ -10,7 +10,7 @@
 <iframe 
     width="1100" 
     height="780" 
-    src="//player.bilibili.com/player.html?aid=53437058&bvid=BV1q4411L7cW&cid=93489702&page=1"
+    src="https://live.bilibili.com/8397302"
     scrolling="no" 
     border="0" 
     frameborder="no" 
