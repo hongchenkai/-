@@ -176,7 +176,7 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
           }
           @media (min-aspect-ratio: 2400/1850) {
             .wrap {
-              background-image: url(http://img4.imgtn.bdimg.com/it/u=2365021903,2761717699&fm=26&gp=0.jpg);
+              background-image: url(http://desk.zol.com.cn/showpic/1366x768_103439_14.html);
             }
           }
         </style>
