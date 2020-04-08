@@ -1,5 +1,5 @@
 # 每一天循环
-> Fighting is the best way 
+> Fighting is the best way [电脑按ESC键查看PPT文案]
 <!-- slide -->
 </br>状态：备战中考
 </br> 规划：以P.E. students的身份，然后高中主攻信息
