@@ -13,7 +13,7 @@
 <iframe 
     width="1100" 
     height="780" 
-    src="https://live.bilibili.com/8397302"
+    src="https://live.bilibili.com/8397302?spm_id_from=333.851.b_62696c695f7265706f72745f6c697665.6"
     scrolling="no" 
     border="0" 
     frameborder="no" 
