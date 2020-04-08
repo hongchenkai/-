@@ -20,11 +20,10 @@
     </iframe>
 <!-- slide -->
 ```mermaid
-graph LR
 pen-->pineapple apple pen
 pineapple-->pineapple apple pen
 apple-->pineapple apple pen
-pineapple apple pen-->肯定是我我疯了
+pineapple apple pen--> nothing
 
 ```
 <!-- slide vertical=true -->
