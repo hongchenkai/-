@@ -1,0 +1,27 @@
+---
+title: [如何搭建一个与我相同的博客]第一期
+tags: 教程
+- 
+---
+## 1.准备
+- [x] 能否访问GitHub [测试](github.com) </br> 
+如果条件未达成，见第二条，如果可以直接看第三条[侧边栏有章节切换]
+## 2.[无法访问]解决方案
+在C:\Windows\System32\drivers\etc\host</br>
+1.在host文件底部增加以下文本
+```mermaid
+#github
+192.30.253.112 github.com
+192.30.253.113 github.com
+151.101.185.194 github.global.ssl.fastly.net
+151.101.112.133 assets-cdn.github.com
+192.30.253.117 api.github.com
+192.30.253.116 api.github.com
+172.217.21.110 www.google-analytics.com
+192.30.253.124 live.github.com
+192.30.253.125 live.github.com
+```
+2.[下载psiphon3](https://share.weiyun.com/5IGZuNY) </br>
+打开后点击连接按钮即可
+
+<div align=center>![这里写图片描述](http:...)
