@@ -1,7 +1,6 @@
 # 每一天循环
 > Fighting is the best way 
 <!-- slide -->
-* 就读学校：义桥实验学校
 </br>状态：备战中考
 </br> 规划：以P.E. students的身份，然后高中主攻信息
 </br> `|艾玛，一不小心进秃头交流群了|`
