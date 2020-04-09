@@ -1,9 +1,9 @@
 title: kai的博客 #站点标题
 description: | # 头像背后的信息（html格式），<br/>代表换行
-作为一个鬼才！<br/>
+  这是一个鬼才！<br/>
   初三党<br/>
-  人生一场 别去分清真相<br/>
   kai.52yi.vip<br/>
+  https://inforest.xzzxz.cn<br/>
   <a href="mailto:2398954487@qq.com">
     <i class="fas fa-envelope"></i>
   </a>
@@ -34,7 +34,7 @@ baseurl: "" # 假如你的博客是建在某个目录下的，请在这里加上
 jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
   default:
     body:
-      theme-base: theme-base-0d # 可选的值08~0f，见<https://github.com/poole/lanyon>
+      theme-base: theme-base-07 # 可选的值08~0f，见<https://github.com/poole/lanyon>
       layout-reverse: false # 开启后sidebar在右边，反之左边
       sidebar-overlay: false # 开启后正文不随sidebar移动而移动
     append_to_head: # 通过内嵌html的方式引入并定制插件，删改前确定知道自己在做什么。定制插件的方式可以参考这篇文章<https://wu-kan.cn/_posts/2019-01-18-基于Jekyll搭建个人博客/>
@@ -56,12 +56,12 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
       - | # 网站小图标，可换成你自己的图片，改href中的部分即可
         <link
           rel="apple-touch-icon-precomposed"
-          href="https://s1.ax1x.com/2020/03/21/8W7sDU.jpg"
+          href="https://gravatar.loli.net/avatar/289efba375d63424de3c49569c446744?s=320"
         />
         <link
           rel="shortcut
           icon"
-          href="https://s1.ax1x.com/2020/03/21/8W7sDU.jpg"
+          href="https://gravatar.loli.net/avatar/289efba375d63424de3c49569c446744?s=32"
         />
       - | # 来自lanyon的页面样式，不要改
         <link
@@ -170,11 +170,11 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
             background-position: center top;
             background-repeat: no-repeat;
             background-attachment: fixed;
-            background-image: url(https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1586407291184&di=a05cecc91f6b48a1afbaba1580d52a9a&imgtype=0&src=http%3A%2F%2Fpics4.baidu.com%2Ffeed%2F9c16fdfaaf51f3de97d95c06da4ca0193b297995.jpeg%3Ftoken%3D1710364227d586453fe2d3bdaf56bafe%26s%3DF69531C4D4318BD420D0E4130300E0CB);
+            background-image: url(https://wu-kan.cn/MizunoAi/pixiv/74559485_p1.webp);
           }
           @media (min-aspect-ratio: 2400/1850) {
             .wrap {
-              background-image: url(https://s1.ax1x.com/2020/04/08/GRZkCT.jpg);
+              background-image: url(https://wu-kan.cn/MizunoAi/pixiv/71932901_p0.webp);
             }
           }
         </style>
@@ -243,7 +243,7 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
       disable: false # 是否不显示sidebar
       avatar: # 侧边栏显示的头像
         enable: true
-        img: https://s1.ax1x.com/2020/04/06/Gs51OS.jpg # 头像的地址
+        img: https://gravatar.loli.net/avatar/289efba375d63424de3c49569c446744?s=320 # 头像的地址
       nav: # 导航部分的内容，你也可以自己增加文字、图标（来自fontawesome）和对应的链接
         - title: '<i class="fas fa-home fa-fw"></i> 首页'
           href: /
@@ -255,8 +255,6 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
           href: /archive/
         - title: '<i class="fas fa-coffee fa-fw"></i> 打赏'
           href: /merger/
-        - title: '2020/4/9更新 v1.1.2'
-          href: /
       simple_jekyll_search: # 侧边栏的全站搜索
         enable: true
         full_text_search: false # 可能导致缓慢的搜索和加载
@@ -366,11 +364,8 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
         - | # 觉得我的主题好用的话，让更多的人知道它吧！
           <div>
             <i class="fas fa-thumbs-up fa-fw"></i>
-             友链栏<br/>
-              <a href="https://github.com/wu-kan">
-               jekyll-theme-Wuk</br>
-              <a href="http://www.1xie.xyz/">
-               筱谢博客
+            <a href="https://inforest.xzzxz.cn">
+             博客最近崩溃了，你们越来越强大了
             </a>
           </div>
       wordcount: # 全站字数统计
@@ -432,4 +427,209 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
           href="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.css"
         />
         <script
-          src="https://cdn.jsdelivr.net/
+          src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"
+          defer="defer"
+          onload='
+            for(let x=document.getElementsByClassName("language-mermaid"), i=0;i<x.length;i++)
+            {
+              x[i].classList.add("mermaid");
+              x[i].classList.remove("language-mermaid");
+            }'
+        ></script>
+      - | # prism代码高亮
+        <link
+          rel="stylesheet"
+          href="https://cdn.jsdelivr.net/combine/npm/prismjs/plugins/line-numbers/prism-line-numbers.min.css,npm/prismjs/plugins/toolbar/prism-toolbar.min.css,gh/PrismJS/prism-themes@1955cfef6953b3a59e66016e8a1e016b45d6cc79/themes/prism-nord.css"
+        />
+        <script
+          src="https://cdn.jsdelivr.net/combine/npm/prismjs/components/prism-core.min.js,npm/prismjs/plugins/autoloader/prism-autoloader.min.js,npm/prismjs/plugins/line-numbers/prism-line-numbers.min.js,npm/prismjs/plugins/toolbar/prism-toolbar.min.js"
+          defer="defer"
+          onload='
+            Prism.plugins.autoloader.languages_path = "https:\/\/cdn.jsdelivr.net/npm/prismjs/components/";
+            for(let x=document.getElementsByTagName("pre"), i=0;i<x.length;i++)
+            {
+              x[i].classList.add("line-numbers");
+            }
+            Prism.plugins.toolbar.registerButton("select-code", function (env) {
+              let button = document.createElement("button");
+              button.innerHTML = "select this " + env.language;
+              button.addEventListener("click", function () {
+                if (document.body.createTextRange) {
+                  let range = document.body.createTextRange();
+                  range.moveToElementText(env.element);
+                  range.select();
+                } else if (window.getSelection) {
+                  let selection = window.getSelection();
+                  let range = document.createRange();
+                  range.selectNodeContents(env.element);
+                  selection.removeAllRanges();
+                    selection.addRange(range);
+                }
+              });
+              return button;
+            })'
+        ></script>
+ 
+  post:
+    date: # 显示博文时间
+      enable: true
+      alert: <i class="fas fa-calendar-day fa-fw"></i>
+    wordcount: # 统计全文字数
+      enable: true
+      alert: <i class="fas fa-file-word fa-fw"></i>
+      unit: 字
+    readtime: # 计算文章阅读时间
+      enable: true
+      alert: <i class="fas fa-clock fa-fw"></i>
+      unit: 分
+      divided_by: 300 # 正常人的阅读速度大概每分钟三百个字
+    visitor: # 需要引入并开启valine的visitor选项使之开始计数; 可能会和busuanzi统计的有出入
+      enable: true
+      alert: <i class="fas fa-book-reader fa-fw"></i>
+      unit: 次
+    tags: # 显示博文标签
+      enable: true
+      alert: <i class="fas fa-tag fa-fw"></i>
+    copyright: | # 我的文章使用最宽松的知识共享协议：署名 4.0 国际 (CC BY 4.0)。您可以自由地：共享 — 在任何媒介以任何形式复制、发行本作品；演绎 — 修改、转换或以本作品为基础进行创作；在任何用途下，甚至商业目的。只要你遵守许可协议条款，许可人就无法收回你的这些权利。惟须遵守下列条件：署名 — 您必须给出适当的署名，提供指向本许可协议的链接，同时标明是否（对原始作品）作了修改。您可以用任何合理的方式来署名，但是不得以任何方式暗示许可人为您或您的使用背书。
+      <br/>
+      <i class="fas fa-coffee fa-fw"></i>
+      <a href="/merger/">如果这篇博客帮助到你，可以请我喝一杯咖啡~</a>
+      <br/>
+      <i class="fab fa-creative-commons-by fa-fw"></i>
+      <a rel="license" href="https://creativecommons.org/licenses/by/4.0/deed.zh">CC BY 4.0</a>（除特别声明或转载文章外）
+  tags:
+    alert: <i class="fas fa-tag"></i> # 在标签页的每个标签前面显示一个图标
+    count: true # 统计每个标签下文章的数量
+  archive:
+    posts_count:
+      enable: true # 博文数量统计
+      alert: 篇博文。长路漫漫！ # 提示语
+  merger: # 打赏页，需要配置！
+    append_to_head:
+      - | # 需要配置的变量见<https://merger.justhx.com/cn/docs/configure>
+        <script>
+          var usage = "payment";
+          
+          var tenpay = "https://i.qianbao.qq.com/wallet/sqrcode.htm?m=tenpay&f=wallet&u=2398954487&a=1&n=twistzz&ac=CAEQ98f09wgY5uvA8wU%3D_xxx_sign";
+          
+          var myname = "kai";
+          var profile = "https://gravatar.loli.net/avatar/289efba375d63424de3c49569c446744?s=320";
+          var multilingual = true;
+          var myname_hans = "kai";
+          var myname_hant = "kai";
+          var myname_eng = "kai";
+          var title = "选择你的支付方式";
+          var subtitle = "跟随进一步的指示以向" + myname + "付款";
+          var qrcodeapi = "https://www.zhihu.com/qrcode?url=";
+        </script>
+      - |
+        <meta
+          charset="utf-8"
+        />
+        <meta
+          name="viewport"
+          content="initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
+        />
+        <meta
+          http-equiv="Content-Security-Policy"
+          content="upgrade-insecure-requests"
+        />
+      - | # merger的页面样式
+        <link
+          rel="stylesheet"
+          href="https://cdn.jsdelivr.net/combine/gh/hifocus/merger@0.21.1/assets/styles/spectre.css/spectre-modified.min.css,gh/hifocus/merger@0.21.1/assets/styles/style.min.css"
+        />
+        <script
+          src='https://cdn.jsdelivr.net/combine/gh/hifocus/merger@0.21.1/assets/js/jQuery/jquery.min.js,gh/hifocus/merger@0.21.1/assets/js/jquery-qrcode/jquery-qrcode.min.js,gh/hifocus/merger@0.21.1/assets/js/JavaScript_MD5/md5.min.js,gh/hifocus/merger@0.21.1/assets/js/function.min.js,gh/hifocus/merger@0.21.1/assets/js/font_974919_xgtacm93vxp.min.js'
+          defer='defer'
+        ></script>
+  home: # 用于生成ppt的模板，看不懂的话可以不用配置
+    append_to_section_tag:
+      - key: data-markdown
+      - key: data-separator # 水平展示页分隔符
+        value: <!-- slide -->
+      - key: data-separator-vertical # 垂直展示页分隔符
+        value: <!-- slide vertical=true -->
+    append_before: |
+      <link
+        rel="stylesheet"
+        href="https://cdn.jsdelivr.net/combine/npm/reveal.js/css/reveal.min.css,npm/reveal.js/css/theme/serif.min.css"
+      />
+      <style>
+        .sidebar {
+          line-height: 1.5;
+        }
+        .reveal .slides {
+          text-align: left;
+        }
+      </style>
+      <script
+        defer="defer"
+        src="https://cdn.jsdelivr.net/npm/reveal.js/js/reveal.min.js"
+        onload="
+        document.getElementsByClassName('wrap')[0].classList.add('reveal');
+        let path = 'https:\/\/cdn.jsdelivr.net/npm/reveal.js/';
+        Reveal.initialize({
+          height: '100%',
+          hash: true,
+          mouseWheel: true,
+          navigationMode: 'linear',
+          parallaxBackgroundImage: 'data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAD8D+JaQAA3AA/uVqAAA=',//这是一张纯白图
+          dependencies: [
+              { src: path+'plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+              { src: path+'plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+              { src: path+'plugin/highlight/highlight.js', async: true },
+              { src: path+'plugin/zoom-js/zoom.js', async: true },
+              { src: path+'plugin/notes/notes.js', async: true },
+              { src: path+'plugin/math/math.js', async: true }
+          ]
+          });
+        "></script>
+  page404:
+    append_before:
+      - | # 腾讯公益
+        <script
+          src='https://qzonestyle.gtimg.cn/qzone/hybrid/app/404/search_children.js'
+          async='async'
+          charset='utf-8'
+          homePageUrl='/'
+          homePageName='回到我的主页'
+        ></script>
+# githubpage上支持的插件见<https://pages.github.com/versions/>
+plugins: # <https://jekyllrb.com/docs/plugins/>
+  - jekyll-readme-index # 使用readme做index，从而和github渲染效果一致
+  - jekyll-default-layout # 为每个markdown自动生成layout
+  - jekyll-seo-tag # 为每个页面生成标题
+  - jekyll-sitemap # 为站点生成站点地图
+  - jekyll-feed # 为站点生成RSS源
+  - jekyll-remote-theme # 使用remote_theme插件实现主题的前后分离，详见<https://github.com/benbalter/jekyll-remote-theme/>
+
+remote_theme: https://github.com/wu-kan/jekyll-theme-WuK@3.1.0 #使用固定版本号以防止主题更新导致站点显示错乱
+
+readme_index: # 缺失index.md和index.html时，使用README.md代替之
+  with_frontmatter: true # 支持带有yaml头的README
+
+permalink: /_posts/:year-:month-:day-:title/ #生成文章的地址格式，我希望它和_posts目录下的格式一样
+# timezone: Asia/Shanghai # 解决githubpage显示时间不正确的问题，见<https://www.iana.org/time-zones>
+# future: false # 不发布时间在未来的文章
+
+# limit_posts: 999 # 限制博文数量
+# encoding: utf-8
+
+markdown: kramdown
+kramdown: # 见<https://kramdown.gettalong.org/options.html>
+  input: GFM # 见<http://jekyllcn.com/docs/configuration/#kramdown>
+  syntax_highlighter_opts: # 可见<https://kramdown.gettalong.org/syntax_highlighter/rouge.html>
+    disable: true # 关掉默认的高亮，换用prismjs
+
+# 以下为 githubpage上不可修改的参数，见<https://help.github.com/en/github/working-with-github-pages/about-github-pages-and-jekyll>
+#lsi: false # 为相关文章生成索引
+#safe: true # 禁用自定义插件
+#source: [your repo's top level directory] # Jekyll 读取文件的路径
+#incremental: false # 增量生成
+#highlighter: rouge # 代码高亮器
+#gist:
+#  noscript: false
+#kramdown:
+#  math_engine: mathjax
+#  syntax_highlighter: rouge
