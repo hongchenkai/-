@@ -1,8 +1,8 @@
 title: kai的博客 #站点标题
 description: | # 头像背后的信息（html格式），<br/>代表换行
-  这是一个鬼才！<br/>
+  　这是一个鬼才！<br/>
   初三党<br/>
-  事情的真相，总是不言而喻<br/>
+  　事情的真相，总是不言而喻<br/>
   kai.52yi.vip<br/>
   <a href="mailto:2398954487@qq.com">
     <i class="fas fa-envelope"></i>
@@ -34,7 +34,7 @@ baseurl: "" # 假如你的博客是建在某个目录下的，请在这里加上
 jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
   default:
     body:
-      theme-base: theme-base-07 # 可选的值08~0f，见<https://github.com/poole/lanyon>
+      theme-base: theme-base-0d # 可选的值08~0f，见<https://github.com/poole/lanyon>
       layout-reverse: false # 开启后sidebar在右边，反之左边
       sidebar-overlay: false # 开启后正文不随sidebar移动而移动
     append_to_head: # 通过内嵌html的方式引入并定制插件，删改前确定知道自己在做什么。定制插件的方式可以参考这篇文章<https://wu-kan.cn/_posts/2019-01-18-基于Jekyll搭建个人博客/>
@@ -118,7 +118,7 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
                 "mode": "fixed",
                 "hidden": true,
                 "content": {
-                  "link": ["https://inforest.xzzxz.cn/comments/"],
+                  "link": ["https://kai.52yi.vip/comments/"],
                   "skin": ["要换成我的朋友吗？", "让她放个假吧~"],
                   "custom": [{
                     "selector": "a",
@@ -255,6 +255,8 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
           href: /archive/
         - title: '<i class="fas fa-coffee fa-fw"></i> 打赏'
           href: /merger/
+        - title: '<i class="fas fa-exclamation-circle fa-fw"></i> 2020/4/9更改 v1.1.2'
+          href: /
       simple_jekyll_search: # 侧边栏的全站搜索
         enable: true
         full_text_search: false # 可能导致缓慢的搜索和加载
@@ -364,8 +366,11 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
         - | # 觉得我的主题好用的话，让更多的人知道它吧！
           <div>
             <i class="fas fa-thumbs-up fa-fw"></i>
-            <a href="https://inforest.xzzxz.cn">
-             博客最近崩溃了，你们越来越强大了
+            <a href="https://kai..52yi.vip">
+             说明</br>
+             我的博客是开源的，所以可以被直接修改<br/>
+             所以有些不友善的人，动不动来修改主页，导致显示异常<br/>
+             丢失各种链接的问题，如果再出现，我会使用保护插件
             </a>
           </div>
       wordcount: # 全站字数统计
