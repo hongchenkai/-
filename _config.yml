@@ -379,6 +379,9 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
         alert: <i class="fas fa-user-edit fa-fw"></i>
         kilo: 千
         unit: 字
+         <div>
+         <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=110 src="//music.163.com/outchain/player?type=0&id=2763186792&auto=1&height=90"></iframe>
+         </div>  
   page:
     masthead: # 显示顶栏
       enable: true
