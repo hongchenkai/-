@@ -1,26 +1,26 @@
 title: kai的博客 #站点标题
 description: | # 头像背后的信息（html格式），<br/>代表换行
- 　这是一个鬼才！<br/>
-   初三党<br/>
- 　人生一场 别去分清真相<br/>
-   kai.52yi.vip<br/>
-   <a href="https://kai.52yi.vip/_posts/2020-04-08-%E5%85%B3%E4%BA%8E%E6%B7%BB%E5%8A%A0%E5%8F%8B%E9%93%BE%E7%9A%84%E8%AF%B4%E6%98%8E/">想添加友链？</a><br/>
+  这是一个鬼才！<br/>
+  初三党<br/>
+  人生一场 别去分清真相<br/>
+  kai.52yi.vip<br/>
+  [想添加友链？](https://kai.52yi.vip/_posts/2020-04-08-%E5%85%B3%E4%BA%8E%E6%B7%BB%E5%8A%A0%E5%8F%8B%E9%93%BE%E7%9A%84%E8%AF%B4%E6%98%8E/)<br/>
   <a href="mailto:2398954487@qq.com">
     <i class="fas fa-envelope"></i>
   </a>
-  <a href="https://github.com/hongchenkai">
+  <a href="https://github.com/2398954487">
     <i class="fab fa-github"></i>
   </a>
-  <a href="https://zhidao.baidu.com/usercenter?uid=4f3e4069236f25705e79076e">
+  <a href="https://zhidao.baidu.com/usercenter?uid=4f3e4069236f25705e79076e
     <i class="fas fa-chart-bar"></i>
   </a>
   <a href="https://vjudge.net/user/kaiERROr">
     <i class="fas fa-smile"></i>
   </a>
-  <a href="<"http://wpa.qq.com/msgrd?v=3&uin=2398954487&site=qq&menu=yes ">
+  <a href="<"2398954487">
     <i class="fab fa-qq"></i>
   </a>
-<iframe
+  <iframe
     src="https://music.163.com/outchain/player?type=2&id=1363677122&auto=0&height=32"
     width=100%
     height=52
@@ -29,16 +29,15 @@ description: | # 头像背后的信息（html格式），<br/>代表换行
     marginwidth="0"
     marginheight="0"
   ></iframe>
-url: https://hongchenkai.github.io # 你的域名，例如https://wu-kan.github.io
+url: https://inforest.xzzxz.cn # 你的域名，例如https://wu-kan.github.io
 baseurl: "" # 假如你的博客是建在某个目录下的，请在这里加上目录名，并且下面配置的所有链接里的`/assets`前也要加，即`/your_baseurl/assets`。这一项结尾不要有'/'。
 
 jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
   default:
     body:
-      theme-base: theme-base-0d # 可选的值08~0f，见<https://github.com/poole/lanyon>
+      theme-base: theme-base-07 # 可选的值08~0f，见<https://github.com/poole/lanyon>
       layout-reverse: false # 开启后sidebar在右边，反之左边
       sidebar-overlay: false # 开启后正文不随sidebar移动而移动
-      sidebar_open: true
     append_to_head: # 通过内嵌html的方式引入并定制插件，删改前确定知道自己在做什么。定制插件的方式可以参考这篇文章<https://wu-kan.cn/_posts/2019-01-18-基于Jekyll搭建个人博客/>
       - | #一些页面优化标签，看不懂可跳过
         <meta
@@ -58,12 +57,12 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
       - | # 网站小图标，可换成你自己的图片，改href中的部分即可
         <link
           rel="apple-touch-icon-precomposed"
-          href="https://s1.ax1x.com/2020/04/07/GgCirT.jpg"
+          href="https://gravatar.loli.net/avatar/289efba375d63424de3c49569c446744?s=320"
         />
         <link
           rel="shortcut
           icon"
-          href="https://s1.ax1x.com/2020/04/07/GgCirT.jpg"
+          href="https://gravatar.loli.net/avatar/289efba375d63424de3c49569c446744?s=32"
         />
       - | # 来自lanyon的页面样式，不要改
         <link
@@ -120,8 +119,8 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
                 "mode": "fixed",
                 "hidden": true,
                 "content": {
-                  "link": ["http://kai.52yi.vip/comments/"],
-                  "skin": ["医护人员加油！", "武汉棒棒哒~"],
+                  "link": ["https://inforest.xzzxz.cn/comments/"],
+                  "skin": ["要换成我的朋友吗？", "让她放个假吧~"],
                   "custom": [{
                     "selector": "a",
                     "type": "link",
@@ -172,11 +171,11 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
             background-position: center top;
             background-repeat: no-repeat;
             background-attachment: fixed;
-            background-image: url(http://img1.imgtn.bdimg.com/it/u=3800764444,2453922217&fm=11&gp=0.jpg);
+            background-image: url(https://wu-kan.cn/MizunoAi/pixiv/74559485_p1.webp);
           }
           @media (min-aspect-ratio: 2400/1850) {
             .wrap {
-              background-image: url(https://s1.ax1x.com/2020/04/08/GRZkCT.jpg);
+              background-image: url(https://wu-kan.cn/MizunoAi/pixiv/71932901_p0.webp);
             }
           }
         </style>
@@ -245,7 +244,7 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
       disable: false # 是否不显示sidebar
       avatar: # 侧边栏显示的头像
         enable: true
-        img: https://s1.ax1x.com/2020/04/06/Gs51OS.jpg # 头像的地址
+        img: https://gravatar.loli.net/avatar/289efba375d63424de3c49569c446744?s=320 # 头像的地址
       nav: # 导航部分的内容，你也可以自己增加文字、图标（来自fontawesome）和对应的链接
         - title: '<i class="fas fa-home fa-fw"></i> 首页'
           href: /
@@ -257,7 +256,8 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
           href: /archive/
         - title: '<i class="fas fa-coffee fa-fw"></i> 打赏'
           href: /merger/
-        - title: 2020/4/8更新 v1.1.1 
+        - title: '2020/4/9更新 v1.1.2'
+          href: /
       simple_jekyll_search: # 侧边栏的全站搜索
         enable: true
         full_text_search: false # 可能导致缓慢的搜索和加载
@@ -362,21 +362,18 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
         - | # Copyright声明
           <div>
             <i class="fas fa-copyright fa-fw"></i>
-            2020-2020 hkai
+            2017-2020 KaI
           </div>
         - | # 觉得我的主题好用的话，让更多的人知道它吧！
           <div>
             <i class="fas fa-thumbs-up fa-fw"></i>
-             友链栏
-            <a href="https://github.com/wu-kan">
-          </br>jekyll-theme-WuK
-            <a href="http://www.1xie.xyz/">
-          </br>筱谢博客
+             友链栏<br/>
+              <a href="https://github.com/wu-kan">
+               jekyll-theme-Wuk</br>
+              <a href="http://www.1xie.xyz/">
+               筱谢博客
             </a>
           </div>
-         </div>
-         <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=110 src="//music.163.com/outchain/player?type=0&id=3225241908&auto=0&height=90"></iframe>
-         </div>
       wordcount: # 全站字数统计
         enable: true # 本地调试时建议关闭，非常影响站点生成速度（所需时间与博文数量的平方成正比）
         alert: <i class="fas fa-user-edit fa-fw"></i>
@@ -604,7 +601,6 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
           homePageUrl='/'
           homePageName='回到我的主页'
         ></script>
-
 # githubpage上支持的插件见<https://pages.github.com/versions/>
 plugins: # <https://jekyllrb.com/docs/plugins/>
   - jekyll-readme-index # 使用readme做index，从而和github渲染效果一致
@@ -643,4 +639,3 @@ kramdown: # 见<https://kramdown.gettalong.org/options.html>
 #kramdown:
 #  math_engine: mathjax
 #  syntax_highlighter: rouge
-
