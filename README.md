@@ -9,6 +9,7 @@
 </br>`[电脑按ESC键查看略缩图]`
 <!-- slide -->
 ### 和up主一起学习 **欢迎食用**
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=450 src="//music.163.com/outchain/player?type=0&id=3225241908&auto=0&height=430"></iframe>
 <!-- slide vertical=true -->
 `左上角按钮打开侧边栏[偶尔加载失败，重试即可]`
 <iframe 
