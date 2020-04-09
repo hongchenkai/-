@@ -374,6 +374,9 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
           </br>筱谢博客
             </a>
           </div>
+         </div>
+         <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=110 src="//music.163.com/outchain/player?type=0&id=3225241908&auto=0&height=90"></iframe>
+         </div>
       wordcount: # 全站字数统计
         enable: true # 本地调试时建议关闭，非常影响站点生成速度（所需时间与博文数量的平方成正比）
         alert: <i class="fas fa-user-edit fa-fw"></i>
