@@ -170,11 +170,11 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
             background-position: center top;
             background-repeat: no-repeat;
             background-attachment: fixed;
-            background-image: url(https://wu-kan.cn/MizunoAi/pixiv/74559485_p1.webp);
+            background-image: url(https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1586407291184&di=a05cecc91f6b48a1afbaba1580d52a9a&imgtype=0&src=http%3A%2F%2Fpics4.baidu.com%2Ffeed%2F9c16fdfaaf51f3de97d95c06da4ca0193b297995.jpeg%3Ftoken%3D1710364227d586453fe2d3bdaf56bafe%26s%3DF69531C4D4318BD420D0E4130300E0CB);
           }
           @media (min-aspect-ratio: 2400/1850) {
             .wrap {
-              background-image: url(https://wu-kan.cn/MizunoAi/pixiv/71932901_p0.webp);
+              background-image: url(https://s1.ax1x.com/2020/04/08/GRZkCT.jpg);
             }
           }
         </style>
@@ -243,7 +243,7 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
       disable: false # 是否不显示sidebar
       avatar: # 侧边栏显示的头像
         enable: true
-        img: https://gravatar.loli.net/avatar/289efba375d63424de3c49569c446744?s=320 # 头像的地址
+        img: https://s1.ax1x.com/2020/04/06/Gs51OS.jpg # 头像的地址
       nav: # 导航部分的内容，你也可以自己增加文字、图标（来自fontawesome）和对应的链接
         - title: '<i class="fas fa-home fa-fw"></i> 首页'
           href: /
