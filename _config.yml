@@ -56,12 +56,12 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
       - | # 网站小图标，可换成你自己的图片，改href中的部分即可
         <link
           rel="apple-touch-icon-precomposed"
-          href="https://gravatar.loli.net/avatar/289efba375d63424de3c49569c446744?s=320"
+          href="https://s1.ax1x.com/2020/04/06/Gs51OS.jpg"
         />
         <link
           rel="shortcut
           icon"
-          href="https://gravatar.loli.net/avatar/289efba375d63424de3c49569c446744?s=32"
+          href="https://s1.ax1x.com/2020/04/06/Gs51OS.jpg"
         />
       - | # 来自lanyon的页面样式，不要改
         <link
@@ -170,11 +170,11 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
             background-position: center top;
             background-repeat: no-repeat;
             background-attachment: fixed;
-            background-image: url(https://wu-kan.cn/MizunoAi/pixiv/74559485_p1.webp);
+            background-image: url(https://ss0.bdstatic.com/94oJfD_bAAcT8t7mm9GUKT-xh_/timg?image&quality=100&size=b4000_4000&sec=1586402502&di=7492e65b8fd1c6736f264b5cb1d2adc6&src=http://pics4.baidu.com/feed/9c16fdfaaf51f3de97d95c06da4ca0193b297995.jpeg?token=1710364227d586453fe2d3bdaf56bafe&s=F69531C4D4318BD420D0E4130300E0CB);
           }
           @media (min-aspect-ratio: 2400/1850) {
             .wrap {
-              background-image: url(https://wu-kan.cn/MizunoAi/pixiv/71932901_p0.webp);
+              background-image: url(https://s1.ax1x.com/2020/04/08/GRZkCT.jpg);
             }
           }
         </style>
