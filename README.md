@@ -9,7 +9,7 @@
 </br>`[电脑按ESC键查看略缩图]`
 <!-- slide -->
 ### 和up主一起学习 **欢迎食用**
-background_music: '<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=29207835&auto=1&height=66"></iframe>'
+
 <!-- slide vertical=true -->
 `左上角按钮打开侧边栏[偶尔加载失败，重试即可]`
 <iframe 
