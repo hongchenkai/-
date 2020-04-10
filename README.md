@@ -3,8 +3,8 @@
 
 <!-- slide -->
 + <font color=#0099ff size=7 face="黑体">目录</font>
-    * <font color=#0099ff size=7 face="黑体">[与up主一起学习](https://kai.52yi.vip/#/2/1)</font>
-    * <font color=#0099ff size=7 face="黑体">[个人状态每日更新](https://kai.52yi.vip/#/3)</font>
+  * [与up主一起学习](https://kai.52yi.vip/#/2/1)</br>
+   * [个人状态每日更新](https://kai.52yi.vip/#/3)
     * 后续更新
 </br>`[电脑按ESC键查看略缩图]`
 <!-- slide -->
@@ -25,10 +25,7 @@
 
 <!-- slide -->
 ```mermaid
-状态：正常学习
-规划：以P.E. students的身份，然后高中主攻信息
-艾玛，一不小心进秃头交流群了
-
+排版好烦，不想排版
 ```
 <!-- slide vertical=true -->
 
