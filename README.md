@@ -2,6 +2,8 @@
 > Fighting is the best way 
 
 <!-- slide -->
+/polls 中考加油
+<!-- slide -->
 + <font color=#0099ff size=7 face="黑体">目录</font>
   * [与up主一起学习](https://kai.52yi.vip/#/2/1)</br>
    * [个人状态每日更新](https://kai.52yi.vip/#/3)
