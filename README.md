@@ -14,16 +14,7 @@
 
 <!-- slide vertical=true -->
 `左上角按钮打开侧边栏[偶尔加载失败，重试即可]`
-<iframe 
-    width="1100" 
-    height="780" 
-    src="https://live.bilibili.com/8397302?spm_id_from=333.851.b_62696c695f7265706f72745f6c697665.6"
-    scrolling="no" 
-    border="0" 
-    frameborder="no" 
-    framespacing="0" 
-    allowfullscreen="false"> 
-    </iframe>
+
 
 <!-- slide -->
 ```mermaid
